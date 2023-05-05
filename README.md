@@ -16,7 +16,7 @@ ATTACKING: When both players are done placing the boats you start the attacking 
 ![Captura 4](https://user-images.githubusercontent.com/132148561/236564256-395ae562-3775-4119-a8dd-062bac7ff16f.png) 
 
 ## Final Notes
-If you have any suggestion of otimization it would be much apreciated since I'm still a begginner.
+If you have any suggestion on otimization, issues and improving the game in general it would be much apreciated since I'm still a begginner.
 
 If you want to reset a game you can run NAVAL1 but if want to 
 continue a game (only works on the attacking) you will execute NAVAL2.
