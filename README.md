@@ -1,5 +1,3 @@
-# Naval Battle 
-
 ## General Info
 The game size (NAVAL1 + NAVAL2) is approximately 1 694 bytes and It's writen in TI-BASIC. (NOTE: This is the size on your calculator the file on other devices may varie)
 
