@@ -19,4 +19,4 @@ ATTACKING: When both players are done placing the boats you start the attacking 
 If you have any suggestion of otimization it would be much apreciated since I'm still a begginner.
 
 If you want to reset a game you can run NAVAL1 but if want to 
-continue a game (only works on the attacking) it you will use NAVAL2.
+continue a game (only works on the attacking) you will execute NAVAL2.
