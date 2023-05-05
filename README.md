@@ -9,8 +9,14 @@ PLACING THE BOATS: NAVAL1 is when the players select the spots they want their b
 
 ATTACKING: When both players are done placing the boats you start the attacking phase, the PLAYER1 will be the first to attack. On this phase you will see a table of colums and lines similar to the one you saw at the placing boats phase the only difference is that this table represents the shots you've already fired, for example if you hit a boat on 1A it will be displayed as "X" if you missed a shot on A2 it will be displayed "0". To shot you just need to press enter when you're done with looking into previous shots, after that a input will appear asking for colums(1-8) you fill it and press enter then other one asking for lin(A-G) will appear and after you fill and once again press enter you will be able to shot, to know if your shot was either "HITTED" or "WATER" you can look at the superior right corner.
 
-#
+## Some Pictures
+
+![Captura 2](https://user-images.githubusercontent.com/132148561/236564239-cdace80a-d5c9-4ce1-b94e-0c48c3b6beea.png) 
+![Captura 3](https://user-images.githubusercontent.com/132148561/236564251-a57fac6c-4864-401c-8cb1-e3f0e085aff1.png) 
+![Captura 4](https://user-images.githubusercontent.com/132148561/236564256-395ae562-3775-4119-a8dd-062bac7ff16f.png) 
+
+## Final Notes
 If you have any suggestion of otimization it would be much apreciated since I'm still a begginner.
 
-IMPORTANT INFO: If you want to reset a game you can run NAVAL1 but if want to 
+If you want to reset a game you can run NAVAL1 but if want to 
 continue a game (only works on the attacking) it you will use NAVAL2.
