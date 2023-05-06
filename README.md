@@ -18,5 +18,5 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 ## Final Notes
 If you have any suggestion on otimization, issues and improving the game in general it would be much apreciated since I'm still a begginner.
 
-If you want to reset a game you can run NAVAL1 but if want to 
-continue a game (only works on the attacking) you will execute NAVAL2.
+If you want to reset a game you can run *NAVAL1* but if want to 
+continue a game (only works on the attacking) you will execute *NAVAL2*.
