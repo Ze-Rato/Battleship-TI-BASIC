@@ -16,7 +16,7 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 ![Captura 4](https://user-images.githubusercontent.com/132148561/236564256-395ae562-3775-4119-a8dd-062bac7ff16f.png) 
 
 ## Upadtes and Patches
-V1- Launch and translation to English.
+V1- Launch and translation to English.<br />
 V1.1- Made the getKey more efficient.
 
 
