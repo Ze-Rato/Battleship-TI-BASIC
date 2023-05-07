@@ -15,6 +15,11 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 ![Captura 3](https://user-images.githubusercontent.com/132148561/236564251-a57fac6c-4864-401c-8cb1-e3f0e085aff1.png) 
 ![Captura 4](https://user-images.githubusercontent.com/132148561/236564256-395ae562-3775-4119-a8dd-062bac7ff16f.png) 
 
+## Upadtes and Patches
+
+V1- Launch and translation to English.
+V1.1- Made the getKey more efficient.
+
 ## Final Notes
 If you have any suggestion on otimization, issues and improving the game in general it would be much apreciated since I'm still a begginner.
 
