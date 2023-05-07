@@ -17,7 +17,7 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 
 ## Upadtes and Patches
 
-V1- Launch and translation to English.
+V1- Launch and translation to English./n
 V1.1- Made the getKey more efficient.
 
 ## Final Notes
