@@ -20,7 +20,8 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 |    Version    | Date of Realease | Changes Description |
 | ------------- | ------------------- | -------- |
 | 1  | 05/05/2023 | Launch and translation to English.   |
-| Current | 07/05/2023 | Made the getKey command more efficient.   |
+| 1.1 | 07/05/2023 | Made the getKey command more efficient.   |
+| Current | 25/05/2023 | Fixed the bug where the output boats would disappear if you overlap it with another boat|
 
 ## Final Notes
 If you have any suggestion on otimization, issues and improving the game in general it would be much apreciated since I'm still a begginner.
