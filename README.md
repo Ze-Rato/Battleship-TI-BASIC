@@ -24,7 +24,7 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 | Current | 25/05/2023 | Fixed the bug where the placed boats would visually disappear if you overlapped them with another boat|
 
 ## Final Notes
-If you have any suggestion on otimization, issues and improving the game in general it would be much apreciated since I'm still a begginner.
+If you have any suggestions regarding otimization, issues and improving the game in general it would be much apreciated since I'm still a begginner.
 
 If you want to reset a game you can run *NAVAL1* but if want to 
 continue a game (only works on the attacking and it will initiate on PLAYER1's turn) you will execute *NAVAL2*.
