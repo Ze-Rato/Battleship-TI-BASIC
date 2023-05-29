@@ -28,3 +28,5 @@ If you have any suggestions regarding otimization, issues and improving the game
 
 If you want to reset a game you can run *NAVAL1* but if want to 
 continue a game (only works on the attacking and it will initiate on PLAYER1's turn) you will execute *NAVAL2*.
+
+Also if you have other calculators models (TI 83, TISNPIRE) I would greatly appreciate your feedback!
