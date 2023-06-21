@@ -1,5 +1,5 @@
 ## General Info
-The game size (*NAVAL1* + *NAVAL2*) is approximately **1817 bytes** and It's writen in TI-BASIC. (**NOTE: This is the size on your calculator the file on other devices may varie**)
+The game size (*NAVAL1* + *NAVAL2*) is approximately **1784 bytes** and It's writen in TI-BASIC. (**NOTE: This is the size on your calculator the file on other devices may varie**)
 
 ## Setting up the game
 You can use TI Connect to send these program files to your graphic calculator. You should find *NAVAL1* and *NAVAL2* on programs. This was made on a ti-84 plus CE-T so it may not work in some calculators
@@ -21,7 +21,9 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 | 1  | 05/05/2023 | -Launch and translation to English.   |
 | 1.1 | 07/05/2023 | -Made the getKey command more efficient.   |
 | 1.2 | 25/05/2023 | -Fixed the bug where the placed boats would visually disappear if you overlapped them with another boat|
-| 1.3 (Current) | 01/06/2023 | -Added missing translations in *Naval2* <br> -Fixed an error on *Naval2* where C was used as constant and the collums variable <br> -Now if you shutdown/stop on the attacking phase it restarts on the player's turn where the game was interrupted (You need to execute *NAVAL2*)<br> -Improved performance by removing unecessary characters (for example the " on the end of an outoput)|
+| 1.3 | 01/06/2023 | -Added missing translations in *NAVAL2* <br> -Fixed an error on *Naval2* where C was used as constant and the collums variable <br> -Now if you shutdown/stop on the attacking phase it restarts on the player's turn where the game was interrupted (You need to execute *NAVAL2*)<br> -Improved performance by removing unecessary characters (for example the " on the end of an outoput)|
+| 1.4 (Current) | 21/06/2023 | -Removed an useless variable on *NAVAL1* <br> -Deleted some unnecessary characters on *NAVAL1*|
+
 
 ## Final Notes
 If you have any suggestions regarding otimization, issues and improving the game in general it would be much apreciated since I'm still a begginner.
