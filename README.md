@@ -18,7 +18,7 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 | 1  | 05/05/2023 | -Launch and translation to English.   |
 | 1.1 | 07/05/2023 | -Made the getKey command more efficient.   |
 | 1.2 | 25/05/2023 | -Fixed the bug where the placed boats would visually disappear if you overlapped them with another boat|
-| 1.3 | 01/06/2023 | -Added missing translations in *NAVAL2* <br> -Fixed an error on *Naval2* where C was used as constant and the collums variable <br> -Now if you shutdown/stop on the attacking phase it restarts on the player's turn where the game was interrupted (You need to execute *NAVAL2*)<br> -Improved performance by removing unecessary characters (for example the " on the end of an outoput)|
+| 1.3 | 01/06/2023 | -Added missing translations in *NAVAL2* <br> -Fixed an error on *Naval2* where C was used as constant and the collums variable <br> -Now if you shutdown/stop on the attacking phase it restarts on the player's turn where the game was interrupted (You need to execute *NAVAL2*)<br> -Removws unecessary characters |
 | 1.4 (Current) | 21/06/2023 | -Removed an useless variable on *NAVAL1* <br> -Deleted some unnecessary characters on *NAVAL1*|
 
 
