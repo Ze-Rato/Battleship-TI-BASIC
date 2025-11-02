@@ -1,6 +1,3 @@
-## General Info
-The game size (*NAVAL1* + *NAVAL2*) is approximately **1784 bytes** and It's writen in TI-BASIC. (**NOTE: This is the size on your calculator the file on other devices may varie**)
-
 ## Setting up the game
 You can use TI Connect to send these program files to your graphic calculator. You should find *NAVAL1* and *NAVAL2* on programs. This was made on a ti-84 plus CE-T so it may not work in some calculators
 
